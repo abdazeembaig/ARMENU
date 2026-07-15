@@ -1,1 +1,2 @@
 # ARMENU
+initial setup
